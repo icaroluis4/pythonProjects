@@ -8,7 +8,7 @@ def mod(a,b): # mod function
 
 
 
-def cifra(words,e,n): # get the words and compute the cipher
+def cifra(words,e,n): # obtem as palavras e computa a cifra
     tam = len(words)
     i = 0
     lista = []
